@@ -1,0 +1,1 @@
+create database people_info charset=utf8;
